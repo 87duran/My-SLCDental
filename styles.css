@@ -1,0 +1,44 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	background: #005AA3;
+}
+.contactBar {
+	background: #004e8e;
+	color: white;
+	text-align: center;
+}
+.navBar {
+	display: flex;
+}
+.main {
+	margin: 30px 70px;
+	height: 100%;
+	background-color: white;
+}
+.logo {
+	padding: 35px;
+}
+.button {
+	padding: 60px 20px;
+	font-size: 25px;
+	font-family: arial;
+	color: #004e8e;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+.mainImg {
+	padding: 0px 50px; 
+}
+.rowImg {
+	display: inline-flex;
+}
+.text {
+	padding: 20px;
+}
+.clickButton {
+	padding: 20px;
+}
